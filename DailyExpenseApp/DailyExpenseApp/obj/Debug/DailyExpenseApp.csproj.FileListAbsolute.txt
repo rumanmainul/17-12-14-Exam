@@ -1,0 +1,19 @@
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe.config
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.pdb
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csprojResolveAssemblyReference.cache
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Properties.Resources.resources
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csproj.GenerateResource.Cache
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\CSVLib.dll
+E:\Projects\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.DailyExpense.resources
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe.config
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.exe
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.pdb
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.exe
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\bin\Debug\DailyExpenseApp.pdb
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csprojResolveAssemblyReference.cache
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.DailyExpense.resources
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.Properties.Resources.resources
+G:\Fdrive\ftfl c#\exam\DailyExpenseApp\DailyExpenseApp\obj\Debug\DailyExpenseApp.csproj.GenerateResource.Cache
